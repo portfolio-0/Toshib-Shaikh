@@ -404,6 +404,16 @@ section { padding: 100px 60px; }
   margin-bottom: 56px;
 }
 
+.section-note {
+  font-size: 0.85rem;
+  color: var(--green);
+  opacity: 0.8;
+  line-height: 1.5;
+  max-width: 520px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
 /* ══════════════════════════════
    SERVICES
 ══════════════════════════════ */
